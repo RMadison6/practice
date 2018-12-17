@@ -1,6 +1,0 @@
-mkdir git_practice
-cd git_practice
-git init
-echo"hello Git and Github" >> README.txt
-git add README.txt
-git commit-m "First Commit"
